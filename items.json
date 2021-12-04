@@ -1,0 +1,42 @@
+{
+  "television": [
+    {
+      "id": 1,
+      "name": "Vizio 65 inches",
+      "price": 79999,
+      "imgName": "vizio65.png"
+    },
+    {
+      "id": 2,
+      "name": "Toshiba 43 Inch",
+      "price": 54999,
+      "imgName": "toshiba43.png"
+    },
+    {
+      "id": 3,
+      "name": "TCL 85 Inch",
+      "price": 99999,
+      "imgName": "tcl85.png"
+    },
+    {
+      "id": 4,
+      "name": "Sony 85 Inch",
+      "price": 99999,
+      "imgName": "sony85.png"
+    }
+  ],
+  "merch": [
+    {
+      "id": 5,
+      "name": "T-Shirt",
+      "price": 1999,
+      "imgName": "Namazon shirt.png"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Cup",
+      "price": 699,
+      "imgName": "namazon cup.png"
+    }
+  ]
+}
